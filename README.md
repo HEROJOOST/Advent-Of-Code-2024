@@ -2,7 +2,7 @@
 The advent of code 2024 repositories where all of my solutions will be located in.
 
 ## 01-12
-
+2 Stars
 
 ## 02-12
 
