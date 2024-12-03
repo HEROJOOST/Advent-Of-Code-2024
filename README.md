@@ -5,7 +5,7 @@ The advent of code 2024 repositories where all of my solutions will be located i
 2 Stars
 
 ## 02-12
-
+1 star with my own solution, 2nd star together with a class mate. Problem was not checking DESC or ASC with just one missing.
 
 ## 03-12
 
