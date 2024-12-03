@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1o6KTgX5gmvq23iRMmhH4yBV1iHtZzQsn0edDxtAYwC8RYTwNHDsyIs9KxzIBsFMkI8fqCs7iq/ebIXTKg0ww==",
+  "success": true,
+  "projectFilePath": "/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-3/AOC-3/AOC-3.csproj",
+  "expectedPackageFiles": [
+    "/home/joostb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
