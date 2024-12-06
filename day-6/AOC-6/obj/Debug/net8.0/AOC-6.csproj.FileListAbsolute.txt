@@ -1,0 +1,15 @@
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/bin/Debug/net8.0/AOC-6
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/bin/Debug/net8.0/AOC-6.deps.json
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/bin/Debug/net8.0/AOC-6.runtimeconfig.json
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/bin/Debug/net8.0/AOC-6.dll
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/bin/Debug/net8.0/AOC-6.pdb
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.GeneratedMSBuildEditorConfig.editorconfig
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.AssemblyInfoInputs.cache
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.AssemblyInfo.cs
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.csproj.CoreCompileInputs.cache
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.sourcelink.json
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.dll
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/refint/AOC-6.dll
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.pdb
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/AOC-6.genruntimeconfig.cache
+/home/joostb/AdventOfCode/Advent-Of-Code-2024/day-6/AOC-6/obj/Debug/net8.0/ref/AOC-6.dll

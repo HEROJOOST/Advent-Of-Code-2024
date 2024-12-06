@@ -11,13 +11,13 @@ The advent of code 2024 repositories where all of my solutions will be located i
 2 Stars
 
 ## 04-12
-
+0 Stars, solution was for some reason not working. Will try to fix this at some point.
 
 ## 05-12
-
+2 Stars
 
 ## 06-12
-
+1 Star
 
 ## 07-12
 
